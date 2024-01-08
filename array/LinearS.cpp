@@ -24,6 +24,6 @@ int main()
 }
 // To search any element present inside the array in C++ programming using the linear search technique, you have to ask the user to enter any 10 numbers as 10 array elements, and then ask them to enter a number to search, as shown in the program given below.
 
-This program doesn't allow the user to define the size of an array. Later on, you will go through the program that allows the user to define the size and also prints all the indexes of an element if it is found multiple times.
+// This program doesn't allow the user to define the size of an array. Later on, you will go through the program that allows the user to define the size and also prints all the indexes of an element if it is found multiple times.
 
-    This is the simplest program to implement linear search in C++.
+// This is the simplest program to implement linear search in C++.
