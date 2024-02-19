@@ -1,0 +1,1 @@
+extern int x = 19; // external variable //global value
