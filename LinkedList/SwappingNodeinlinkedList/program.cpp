@@ -62,5 +62,5 @@ int main()
         head = head->next;
     }
     cout << endl;
-    return 0;
+    e return 0;
 }
